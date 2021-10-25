@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
+.content{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.header_title{
+    text-align: center;
+    background-color:#202020 ;
+    display: block;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: auto;
+
+}
+
+.announcement{
+    text-align: center;
+}
+
+.name_input{
+    text-align: center;
+}
+
+.email_input{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.option_input{
+    text-align: center;
+    padding-top: 35px;
+}
+
+.checkbox_input{
+    text-align: center;
+    padding-top: 35px;
+}
+
+.submit{
+    text-align: center;
+    padding-top: 30px;
+}
+.footer_end{
+    margin-top: 20px;
+    text-align: center;
+    background-color:#202020 ;
+    display: block;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: auto;
+
+}
+
+#siteName{
+    color: green;
+}
